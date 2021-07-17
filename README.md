@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<<<<<<< HEAD
 
+=======
+#This the the new branch
+>>>>>>> new
 ## I made a push finally
 #ohh thers a mistake
 ## Available Scripts
